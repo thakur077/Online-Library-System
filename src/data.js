@@ -1,0 +1,58 @@
+const books = [
+  {
+    id: 1,
+    title: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    description: "A novel set in the Roaring Twenties.",
+    rating: 4.2,
+    category: "Fiction",
+    image: "https://m.media-amazon.com/images/I/81af+MCATTL.jpg",
+  },
+  {
+    id: 2,
+    title: "Sapiens",
+    author: "Yuval Noah Harari",
+    description: "A brief history of humankind.",
+    rating: 4.5,
+    category: "Non-Fiction",
+    image: "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg",
+  },
+  {
+    id: 3,
+    title: "Dune",
+    author: "Frank Herbert",
+    description: "Epic science fiction novel set on the desert planet Arrakis.",
+    rating: 4.6,
+    category: "Sci-Fi",
+    image: "https://m.media-amazon.com/images/I/91uwocAMtSL.jpg",
+  },
+  {
+    id: 4,
+    title: "1984",
+    author: "George Orwell",
+    description: "A dystopian novel about totalitarianism and surveillance.",
+    rating: 4.4,
+    category: "Fiction",
+    image: "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg",
+  },
+  {
+    id: 5,
+    title: "Atomic Habits",
+    author: "James Clear",
+    description: "A guide to building good habits and breaking bad ones.",
+    rating: 4.7,
+    category: "Non-Fiction",
+    image: "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+  },
+  {
+    id: 6,
+    title: "The Martian",
+    author: "Andy Weir",
+    description: "A stranded astronaut must survive alone on Mars.",
+    rating: 4.5,
+    category: "Sci-Fi",
+    image: "https://books.google.co.in/books/publisher/content?id=AvTLDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2Dn1YGVIGFfogzlocVJr01otAUaQ&w=1280",
+  },
+];
+
+export default books;
